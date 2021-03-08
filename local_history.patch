@@ -1,0 +1,15 @@
+Index: MyApplication13/app/src/main/java/com/example/myapplication/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- MyApplication13/app/src/main/java/com/example/myapplication/MainActivity.java	(date 1584344360259)
++++ MyApplication13/app/src/main/java/com/example/myapplication/MainActivity.java	(date 1584344360259)
+@@ -1,6 +1,7 @@
+ package com.example.myapplication;
+ 
+ import androidx.appcompat.app.AppCompatActivity;
++
+ import android.os.Bundle;
+ 
+ public class MainActivity extends AppCompatActivity {
