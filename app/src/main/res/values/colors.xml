@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1490CE</color>
+    <color name="colorPrimaryDark">#1490CE</color>
+    <color name="colorAccent">#1490CE</color>
+    <color name="transparent">#FFFFFF</color>
+    <color name="gradstart">#FFFFFF</color>
+    <color name="gradstop">#FFFFFF</color>
+    <color name="colorTransparent">#1490CE</color>
+    <color name="colorGradientCenter">#DCDCDC</color>
+    <color name="colorGradientStart">#E81D20</color>
+    <color name="colorGradientEnd">#1490CE</color>
+    <color name="black">#000000 </color>
+
+</resources>

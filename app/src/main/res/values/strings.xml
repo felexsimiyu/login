@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Naftunes</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_home_title">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_clips">Clips</string>
+    <string name="title_watch">Watch</string>
+    <string name="password">Password</string>
+    <string name="enter_email_adress">Enter Email adress</string>
+</resources>
