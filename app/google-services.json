@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "727610394959",
+    "firebase_url": "https://naftunes.firebaseio.com",
+    "project_id": "naftunes",
+    "storage_bucket": "naftunes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727610394959:android:75f43e5fe3abd9eaff5d3a",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727610394959-87j1mkabf3t7br2h00pgmos35lbs7q3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "b1df244d5c8f564e3acc9f314e141dc453abcfb6"
+          }
+        },
+        {
+          "client_id": "727610394959-pvpaob1bqn64g7n0gb99qnihc2oiarae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoQuw-1UAkGrWz8ZkTeTkAmZK4uzH3KUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727610394959-pvpaob1bqn64g7n0gb99qnihc2oiarae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
